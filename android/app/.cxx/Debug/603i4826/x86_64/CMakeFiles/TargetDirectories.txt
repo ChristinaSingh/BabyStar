@@ -1,0 +1,2 @@
+D:/technorisenProject/babystar/android/app/.cxx/Debug/603i4826/x86_64/CMakeFiles/edit_cache.dir
+D:/technorisenProject/babystar/android/app/.cxx/Debug/603i4826/x86_64/CMakeFiles/rebuild_cache.dir
